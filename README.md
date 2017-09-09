@@ -11,8 +11,11 @@ A PowerFull Tabchi that Will not be Deleted Account!
 
 ## Installation
 git clone https://github.com/SecureGitHub/Tabchi.git 
+
 cd Tabchi
+
 chmod +x TG
+
 ./TG
 
 ***
