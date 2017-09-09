@@ -253,10 +253,10 @@ menu
 fi
 
 conf() {
-  TG="$THIS_DIR"/TG-$1.lua
+  TG="$THIS_DIR"/TG-$1.luac
 	if [[ ! -f $TG ]]; then
-		cat main.lua >> TG-$1.lua
-		sed -i 's/ADS-ID/'$1'/g' TG-$1.lua
+		cat main.lua >> TG-$1.luac
+		sed -i 's/ADS-ID/'$1'/g' TG-$1.luac
 	fi
 }
 
