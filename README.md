@@ -1,4 +1,4 @@
-<a href="http://uupload.ir/view/2zt4_photo_2017-09-09_20-30-41.jpg" target="_blank"><img src="http://uupload.ir/files/2zt4_photo_2017-09-09_20-30-41_thumb.jpg" width = 300 alt="آپلود عکس" /></a>
+<div align="center"><a href="https://telegram.me/Secure_Channel"><img src="http://uupload.ir/files/2zt4_photo_2017-09-09_20-30-41.jpg" width="300"></a></div>
 # SecureTeam Tabchi Robot
 
 A PowerFull Tabchi that Will not be Deleted Account!
